@@ -11,31 +11,53 @@
 
 </div>
 
-## 🧭 À propos de moi
+ 
 
-💻 Étudiante à l’**École Nationale d’Intelligence Artificielle et Science des Données**  
-🛡️ Spécialisée en **Sécurité IT et Confiance Numérique**  
-🤖 J’explore la **fusion entre IA et cybersécurité** pour concevoir des solutions fiables et intelligentes.  
-🌱 Toujours en apprentissage sur les **LLMs**, l’**automatisation DevSecOps**, et les **architectures sécurisées**.  
-
----
-
-## 🛠️ Compétences Techniques
+## 🛠️ Compétences Techniques 
 
 ### 🔐 Cybersécurité
-Pentesting · Analyse de vulnérabilités · Sécurité Web · IDS/IPS · Burp Suite · Metasploit · Kali Linux · SIEM · Threat Intelligence  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Metasploit-00599C?style=for-the-badge&logo=metasploit&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" height="28"/>
+</p>
 
 ### 💻 Développement
-Python · Java · PHP · SQL/NoSQL  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</p>
 
-### ⚙️ Outils & Frameworks
-Docker · Git/GitHub · Laravel · Flask · Next.js · CI/CD · Azure · Ansible  
+### ⚙️ Frameworks & Outils
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" height="40"/>
+</p>
 
 ### 🤖 IA & Data Science
-Machine Learning · NLP · CNN · OpenCV · Pandas · NumPy · Spark · Hadoop · Power BI  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
+</p>
 
 ### 🗄️ Bases de Données
-MySQL · MongoDB · Cassandra  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" height="28"/>
+</p>
 
 ---
 
@@ -60,11 +82,7 @@ MySQL · MongoDB · Cassandra
 
 ---
 
-## 📊 Statistiques GitHub
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Oumaimaaaaaaa&theme=tokyonight&hide_border=true" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Oumaimaaaaaaa&show_icons=true&theme=tokyonight&hide_border=true" height="150px" />
-</p>
+## 📊 More
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oumaimaaaaaaa&layout=compact&theme=tokyonight&hide_border=true" height="150px"/>
