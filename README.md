@@ -14,7 +14,7 @@
  
 
 ## 🛠️ Compétences Techniques 
- 
+<p align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white" height="28"/>
