@@ -39,18 +39,6 @@ MySQL · MongoDB · Cassandra
 
 ---
 
-## 🚀 Projets en vedette
-
-### 🔒 [Analyse de la sécurité des extensions de navigateur avec IA](https://github.com/Oumaimaaaaaaa/Extension-Security-Analyzer.git)
-> 🔍 Détection d’extensions malveillantes via **analyse statique** et **Machine Learning**  
-> 🧠 Interface Next.js + LLMs → Rapports explicables & assistance à la réponse aux incidents  
-
-### 📧 [API de classification sécurisée des e-mails clients](https://github.com/Oumaimaaaaaaa/Email_Classifier_API.git)
-> 💌 API REST intégrant un modèle ML pour la **classification de sentiments**  
-> 🔐 Mise en œuvre de contrôles de **confidentialité** et **intégrité des données**  
-
----
-
 ## 🏆 Certifications
 
 | 🌟 Certification | 🏢 Organisation | 🔗 Lien |
@@ -60,13 +48,6 @@ MySQL · MongoDB · Cassandra
 | Machine Learning with Python | IBM / Coursera | [Voir Certificat](https://coursera.org/share/79f6d138f3a2e08d8733e911e342cf81) |
 | Python for Data Science, AI & Development | IBM / Coursera | [Voir Certificat](https://coursera.org/share/3bb07ac1625083c53d05dda0c42de100) |
 | Data Analysis with Python | IBM / Coursera | [Voir Certificat](https://www.coursera.org/account/accomplishments/verify/S2R2KLRMB9PM) |
-
----
-
-## 💬 Langues
-🌍 **Arabe** — Natif  
-🇫🇷 **Français** — Maîtrise professionnelle complète  
-🇬🇧 **Anglais** — Maîtrise professionnelle complète  
 
 ---
 
