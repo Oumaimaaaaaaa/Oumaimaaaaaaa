@@ -3,9 +3,9 @@
 <!-- HEADER -->
 <div align="center">
   
-# 👋 Salut, je suis **Oumaima Mazgar**
-🎓 Étudiante ingénieure en **Cybersécurité & Confiance Numérique**  
-💡 Passionnée par la **sécurité, l’IA et les technologies innovantes**
+#  **Oumaima Mazgar**
+🎓 Étudiante ingénieure en Cybersécurité & Confiance Numérique
+💡 Passionnée par la sécurité, l’IA et les technologies innovantes
 
 ---
 
