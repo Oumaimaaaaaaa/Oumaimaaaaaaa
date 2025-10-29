@@ -4,8 +4,8 @@
 <div align="center">
   
 #  **Oumaima Mazgar**
-🎓 Étudiante ingénieure en Cybersécurité & Confiance Numérique
-💡 Passionnée par la sécurité, l’IA et les technologies innovantes
+ Étudiante ingénieure en Cybersécurité & Confiance Numérique
+Passionnée par la sécurité, l’IA et les technologies innovantes
 
 ---
 
@@ -62,15 +62,7 @@
   <a href="https://github.com/Oumaimaaaaaaa"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
----
-
-## 📊 More
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oumaimaaaaaaa&layout=compact&theme=tokyonight&hide_border=true" height="150px"/>
-</p>
  
----
 
 ## ✨ Citation inspirante
 > _“La sécurité n’est pas un produit, c’est un processus.”_ — **Bruce Schneier**
