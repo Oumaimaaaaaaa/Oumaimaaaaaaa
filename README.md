@@ -68,8 +68,5 @@ Passionnée par la sécurité, l’IA et les technologies innovantes
 > _“La sécurité n’est pas un produit, c’est un processus.”_ — **Bruce Schneier**
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Oumaimaaaaaaa&label=👀+Profil+visité&color=blueviolet&style=flat-square" alt="profile views"/>
-</p>
+ 
 
