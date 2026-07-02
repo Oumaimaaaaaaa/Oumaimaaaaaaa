@@ -59,26 +59,6 @@ and protecting sensitive data in enterprise environments.
 
 <br>
 
-### GitHub Stats
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Oumaimaaaaaaa&show_icons=true&hide_border=true&title_color=6b7c93&icon_color=6b7c93&text_color=666666&bg_color=00000000" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oumaimaaaaaaa&layout=compact&hide_border=true&title_color=6b7c93&text_color=666666&bg_color=00000000" height="165"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Oumaimaaaaaaa&hide_border=true&background=00000000&ring=6b7c93&fire=6b7c93&currStreakLabel=6b7c93" height="165"/>
-
-</div>
-
-<br>
-
----
-
-<br>
 
 ### Certifications
 
