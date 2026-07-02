@@ -2,7 +2,7 @@
 
 <br>
 
-# Oumaima Mazgar
+#  Oumaima Mazgar
 
 <sub>Cybersecurity Engineer — AI & Data Protection</sub>
 
@@ -13,40 +13,37 @@ and protecting sensitive data in enterprise environments.
 
 <br>
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-F7B6CF?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oumaima-mazgar)
+[![GitHub](https://img.shields.io/badge/-GitHub-F7B6CF?style=flat-square&logo=github&logoColor=white)](https://github.com/Oumaimaaaaaaa)
+
+<br>
+
 </div>
 
 ---
 
 <br>
 
-### Focus areas
+### 💗 Focus areas
 
 <br>
 
-<table align="center" border="0" cellspacing="0" cellpadding="12">
-<tr>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="34" height="34"/><br>
-<sub>Security</sub>
-</td>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" height="34"/><br>
-<sub>AI & Data</sub>
-</td>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="34" height="34"/><br>
-<sub>Cloud & Tools</sub>
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="34" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="34" height="34"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="34" height="34"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-F7B6CF?style=for-the-badge&logo=burpsuite&logoColor=white" height="26"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-F7B6CF?style=for-the-badge&logo=kali-linux&logoColor=white" height="26"/>
+</p>
 
 <br>
 
-**Security** &nbsp;·&nbsp; Application security, threat intelligence, vulnerability analysis, incident response, risk & compliance (GDPR)
+🔐 **Security** &nbsp;·&nbsp; Application security, threat intelligence, vulnerability analysis, incident response, risk & compliance (GDPR)
 
-**AI for Security** &nbsp;·&nbsp; NLP, NER, LLMs, data anonymization, explainable AI applied to detection and protection systems
+🤖 **AI for Security** &nbsp;·&nbsp; NLP, NER, LLMs, data anonymization, explainable AI applied to detection and protection systems
 
-**Tooling** &nbsp;·&nbsp; Python · SIEM (Splunk, ELK) · Burp Suite · Metasploit · Wireshark · Kali Linux · Docker · SAP BTP
+🛠️ **Tooling** &nbsp;·&nbsp; Python · SIEM (Splunk, ELK) · Burp Suite · Metasploit · Wireshark · Kali Linux · Docker · SAP BTP
 
 <br>
 
@@ -54,7 +51,7 @@ and protecting sensitive data in enterprise environments.
 
 <br>
 
-### Certifications
+### 🏅 Certifications
 
 <br>
 
@@ -77,7 +74,7 @@ and protecting sensitive data in enterprise environments.
 <br>
 
 <div align="center">
-<sub><i>"Security is not a product, but a process." — Bruce Schneier</i></sub>
+<sub>🌸 <i>"Security is not a product, but a process." — Bruce Schneier</i> 🌸</sub>
 </div>
 
 <br>
