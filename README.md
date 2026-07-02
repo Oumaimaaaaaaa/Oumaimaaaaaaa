@@ -11,9 +11,6 @@
 Engineering graduate in IT Security & Digital Trust, focused on securing AI systems<br>
 and protecting sensitive data in enterprise environments.
 
-<br> 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6b7c93?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/oumaima-mazgar)]
-
 <br>
 
 </div>
